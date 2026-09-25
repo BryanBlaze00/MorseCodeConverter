@@ -10,7 +10,7 @@ A lightweight Python application for bidirectional conversion between alphanumer
 
 * Interactive CLI Menu: Continuous user-prompt loop allowing seamless switching between encoding, decoding, and program exit.
 
-* Error Handling & Formatting: Features fallback character handling (`^`) for unknown inputs, automatic case normalization, and word/character delimiter tokenization.
+* Error Handling & Formatting: Features fallback character handling for unknown inputs, automatic case normalization, and word/character delimiter tokenization.
 
 ## Code Architecture
 
